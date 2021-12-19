@@ -21,7 +21,6 @@ Gachon University 2020 Fall semester
 
 ### Preview
 #### Demo Video: [Link](https://youtu.be/Goi1VeH1tBU)
-![Preview](Preview.png)
 
 
 ### Presentaion
